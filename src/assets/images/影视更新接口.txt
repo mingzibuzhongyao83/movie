@@ -1,0 +1,27 @@
+//最新
+http://tv.umapi.top/api.php?action=date
+//搜索
+http://tv.umapi.top/api.php?action=search&wd=关键词
+//播放
+http://tv.umapi.top/api.php?action=play&id=影视ID
+//电影子分类
+http://tv.umapi.top/api.php?action=sort&type=dydz&pg=1 //动作片 分页例子
+http://tv.umapi.top/api.php?action=sort&type=dyxj //喜剧片
+http://tv.umapi.top/api.php?action=sort&type=dyaq //爱情片
+http://tv.umapi.top/api.php?action=sort&type=dykh //科幻片
+http://tv.umapi.top/api.php?action=sort&type=dykb //恐怖片
+http://tv.umapi.top/api.php?action=sort&type=dyjq //剧情片
+http://tv.umapi.top/api.php?action=sort&type=dyzz //战争片
+//电视子分类
+http://tv.umapi.top/api.php?action=sort&type=tvgc //国产剧
+http://tv.umapi.top/api.php?action=sort&type=tvxg //香港剧
+http://tv.umapi.top/api.php?action=sort&type=tvhg //韩国剧
+http://tv.umapi.top/api.php?action=sort&type=tvmg //美国剧
+http://tv.umapi.top/api.php?action=sort&type=tvhw //海外剧
+http://tv.umapi.top/api.php?action=sort&type=tvtw //台湾剧
+http://tv.umapi.top/api.php?action=sort&type=tvrb //日本剧
+http://tv.umapi.top/api.php?action=sort&type=tvtg //泰国剧
+//动漫
+http://tv.umapi.top/api.php?action=sort&type=dm
+//综艺
+http://tv.umapi.top/api.php?action=sort&type=zy
